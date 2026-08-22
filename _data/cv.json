@@ -35,7 +35,7 @@
       "company": "MINIMAX",
       "position": "Research Intern",
       "website": "",
-      "startDate": "2025-02-01",
+      "startDate": "February 2025",
       "endDate": "",
       "summary": ""
     },
@@ -43,16 +43,16 @@
       "company": "Tencent WXG",
       "position": "Research Intern",
       "website": "",
-      "startDate": "2024-06-01",
-      "endDate": "2024-09-01",
+      "startDate": "June 2024",
+      "endDate": "September 2024",
       "summary": "Advisor: Zifei Shan"
     },
     {
       "company": "Shanghai AI Lab",
       "position": "Research Intern",
       "website": "",
-      "startDate": "2023-06-01",
-      "endDate": "2023-12-01",
+      "startDate": "June 2023",
+      "endDate": "December 2023",
       "summary": "Advisor: Prof. Yu Cheng"
     }
   ],
@@ -61,8 +61,8 @@
       "institution": "Hong Kong University of Science and Technology",
       "area": "Ph.D. in Computer Science",
       "studyType": "",
-      "startDate": "2024-09-01",
-      "endDate": "",
+      "startDate": "2024",
+      "endDate": "2024 - Present",
       "gpa": null,
       "courses": []
     },
@@ -70,8 +70,8 @@
       "institution": "Shanghai Jiao Tong University",
       "area": "B.Eng.",
       "studyType": "",
-      "startDate": "2020-09-01",
-      "endDate": "2024-06-01",
+      "startDate": "2020",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     }
@@ -102,42 +102,42 @@
     {
       "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
       "publisher": "arXiv preprint",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025",
       "website": "",
       "summary": "Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He"
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "publisher": "arXiv preprint",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025",
       "website": "",
       "summary": "Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He"
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
-      "releaseDate": "2024-11-01",
+      "releaseDate": "2024",
       "website": "",
       "summary": "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He"
     },
     {
       "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "publisher": "ICML 2024",
-      "releaseDate": "2024-07-01",
+      "releaseDate": "2024",
       "website": "",
       "summary": "Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
     },
     {
       "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "publisher": "NeurIPS 2023",
-      "releaseDate": "2023-12-01",
+      "releaseDate": "2023",
       "website": "",
       "summary": "Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
     },
     {
       "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "publisher": "NeurIPS 2023",
-      "releaseDate": "2023-12-01",
+      "releaseDate": "2023",
       "website": "",
       "summary": "Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
     }
