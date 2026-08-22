@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2024-11-01-universal-truthfulness-hyperplane
+excerpt: 'EMNLP 2024.'
+date: 2024-11-01
+venue: 'EMNLP 2024'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Authors:** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He
+
+**Venue:** EMNLP 2024
+
+The GitHub code repository for this work is named Universal_Truthfulness_Hyperplane.

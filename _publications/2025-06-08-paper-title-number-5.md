@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-12-01-composing-parameter-efficient-modules
+excerpt: 'NeurIPS 2023.'
+date: 2023-12-01
+venue: 'NeurIPS 2023'
+citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>Advances in Neural Information Processing Systems 36 (NeurIPS)</i>.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**Authors:** Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+**Venue:** NeurIPS 2023
