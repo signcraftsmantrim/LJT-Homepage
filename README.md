@@ -1,7 +1,9 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# LJT-Homepage
+**Personal website of Junteng Liu, a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST).**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+Contact: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk) | [GitHub](https://github.com/Vicent0205) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+
+This site is built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.
 
 # Getting Started
 
@@ -28,16 +30,17 @@ When you are initially working on your website, it is very useful to be able to 
 
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distributions and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
+    \n    On most Linux distributions and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
     ```bash
     sudo apt install ruby-dev ruby-bundler nodejs
     ```
+
     If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
     ```bash
     sudo apt update && sudo apt upgrade -y
     ```
-    then try running `sudo apt install ruby-dev ruby-bundler nodejs` again.
+
+    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
     On MacOS the commands are:
     ```bash
@@ -52,6 +55,7 @@ When you are initially working on your website, it is very useful to be able to 
     ```bash
     bundle config set --local path 'vendor/bundle'
     ```
+
     then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
 
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stopping and restarting Jekyll.
@@ -74,7 +78,7 @@ You should now be able to access the website from `localhost:4000`.
 
 ### Using the DevContainer in VS Code
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+If you are using [Visual Studio Code](https://code.visualstudio.com/), [this Django application](https://code.visualstudio.com/docs/devcontainers/containers) comes to the rescue. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
 # Maintenance
 
@@ -93,7 +97,7 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
     
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
