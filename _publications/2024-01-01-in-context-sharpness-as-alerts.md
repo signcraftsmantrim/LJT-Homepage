@@ -8,4 +8,4 @@ venue: 'ICML'
 citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He (2024). In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation. *ICML*.'
 ---
 
-This paper studies hallucination mitigation in vision-language models from an inner representation perspective.
+An inner representation perspective for hallucination mitigation.
